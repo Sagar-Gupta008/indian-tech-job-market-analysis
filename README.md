@@ -56,3 +56,115 @@ This project aims to:
 * Design a dimensional data warehouse using a Star Schema.
 * Develop interactive dashboards using Power BI.
 * Demonstrate an end-to-end Data Analytics workflow using industry-standard tools.
+
+## 📋 Project Information
+
+| Category               | Details                                     |
+| ---------------------- | ------------------------------------------- |
+| **Project Name**       | Indian Tech Job Market Analysis             |
+| **Domain**             | Data Analytics                              |
+| **Industry**           | Information Technology                      |
+| **Dataset**            | Indian Technology Job Postings              |
+| **Tools Used**         | Python, Pandas, NumPy, MySQL, SQL, Power BI |
+| **Data Warehouse**     | Star Schema                                 |
+| **Visualization Tool** | Power BI Desktop                            |
+| **Project Type**       | End-to-End Data Analytics Project           |
+| **Status**             | ✅ Completed                                 |
+
+# 🛠️ Tech Stack
+
+### Programming & Analysis
+
+* Python
+* SQL
+
+### Python Libraries
+
+* Pandas
+* NumPy
+* Matplotlib
+
+### Database
+
+* MySQL
+
+### Business Intelligence
+
+* Power BI Desktop
+
+### Development Environment
+
+* Jupyter Notebook
+
+### Version Control
+
+* Git & GitHub
+
+# 🔄 Project Workflow
+
+The project follows a complete end-to-end Data Analytics workflow:
+
+1. **Data Collection**
+
+   * Imported the raw Indian technology job postings dataset.
+
+2. **Data Cleaning & Preprocessing**
+
+   * Handled missing values.
+   * Removed inconsistencies.
+   * Standardized categorical values.
+   * Created derived features for analysis.
+
+3. **Data Warehouse Development**
+
+   * Designed a Star Schema.
+   * Created dimension tables.
+   * Built the central fact table.
+   * Loaded transformed data into MySQL.
+
+4. **SQL Business Analysis**
+
+   * Performed analytical SQL queries.
+   * Validated warehouse consistency.
+   * Generated business metrics.
+
+5. **Power BI Dashboard Development**
+
+   * Built interactive dashboards.
+   * Created DAX measures.
+   * Added slicers and cross-filtering.
+   * Designed business-friendly visualizations.
+
+6. **Business Insights**
+
+   * Identified hiring trends.
+   * Analyzed salary patterns.
+   * Examined experience requirements.
+   * Evaluated work mode preferences.
+   * Identified high-demand technical skills.
+
+# 📂 Dataset Overview
+
+The analysis is based on a dataset containing technology job postings across India.
+
+The dataset includes information such as:
+
+* Job Role
+* Company Name
+* City
+* Work Mode
+* Experience Required
+* Technical Skills
+* Salary Information
+* Skill Domain
+
+The dataset was cleaned, transformed, and modeled into a Star Schema before performing SQL analysis and Power BI visualization.
+
+# ⭐ Star Schema Design
+
+A dimensional data warehouse was designed using the **Star Schema** approach to improve analytical performance and simplify reporting.
+
+The model consists of one central fact table connected to multiple dimension tables.
+
+![Star Schema](Images/star_schema.png)
+
