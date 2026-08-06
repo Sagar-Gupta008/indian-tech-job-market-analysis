@@ -14,6 +14,23 @@
 > ### 🚀 An end-to-end Data Analytics project that analyzes hiring trends, salary patterns, technical skills, work modes, and experience requirements across the Indian technology job market using **Python, MySQL, SQL, and Power BI**.
 
 ---
+# 📑 Table of Contents
+
+* [📌 Project Overview](#-project-overview)
+* [❓ Problem Statement](#-problem-statement)
+* [🎯 Project Objectives](#-project-objectives)
+* [🛠️ Tech Stack](#️-tech-stack)
+* [🔄 Project Workflow](#-project-workflow)
+* [📂 Dataset Overview](#-dataset-overview)
+* [⭐ Star Schema Design](#-star-schema-design)
+* [📊 Power BI Dashboard](#-power-bi-dashboard)
+* [❓ Business Questions Answered](#-business-questions-answered)
+* [💡 Key Business Insights](#-key-business-insights)
+* [📈 Business Recommendations](#-business-recommendations)
+* [📁 Repository Structure](#-repository-structure)
+* [🚀 Future Improvements](#-future-improvements)
+* [👨‍💻 About the Author](#-about-the-author)
+
 
 # 📌 Project Overview
 
