@@ -184,7 +184,7 @@ Provides a high-level summary of the job market, including:
 * Top Hiring Cities
 * Work Mode Distribution
 
-![Executive Overview](Images/EXECUTIVEOVERVIEW.png)
+![Executive Overview](Images/EXECUTIVE_OVERVIEW.png)
 
 ---
 
@@ -200,7 +200,7 @@ Key highlights include:
 * Salary by Work Mode
 * Salary by Experience Tier
 
-![Salary Dashboard](Images/dashboard_2_salary_compensation.png)
+![Salary Dashboard](Images/SALARY_AND_COMPENSATION_ANLYSIS.png)
 
 ---
 
@@ -216,7 +216,7 @@ Key highlights include:
 * Experience vs Salary
 * Role vs Experience Matrix
 
-![Experience & Skills Dashboard](Images/dashboard_3_experience_skills.png)
+![Experience & Skills Dashboard](Images/EXPERIENCE_AND_SKILLS_ANALYSIS.png)
 
 # ❓ Business Questions Answered
 
