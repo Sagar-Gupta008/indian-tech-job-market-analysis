@@ -184,7 +184,7 @@ Provides a high-level summary of the job market, including:
 * Top Hiring Cities
 * Work Mode Distribution
 
-![Executive Overview](Images/EXECUTIVE OVERVIEW.jpeg)
+![Executive Overview](Images/EXECUTIVE OVERVIEW.png)
 
 ---
 
