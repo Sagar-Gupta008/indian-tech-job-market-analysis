@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="Images/project_banner.png" alt="Indian Tech Job Market Analysis Banner" width="100%">
+</p>
+
+<h1 align="center">Indian Tech Job Market Analysis</h1>
+
+<p align="center">
+  End-to-End Data Analytics Project using Python, MySQL, SQL and Power BI
+</p>
 # 📊 Indian Tech Job Market Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
