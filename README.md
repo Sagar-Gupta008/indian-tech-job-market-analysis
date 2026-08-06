@@ -168,3 +168,140 @@ The model consists of one central fact table connected to multiple dimension tab
 
 ![Star Schema](Images/star_schema.png)
 
+# 📊 Power BI Dashboard
+
+The final Power BI report consists of three interactive dashboard pages designed to provide insights into the Indian technology job market.
+
+## 1️⃣ Executive Overview
+
+Provides a high-level summary of the job market, including:
+
+* Total Jobs
+* Total Companies
+* Average Salary
+* Salary Disclosure Rate
+* Top Hiring Roles
+* Top Hiring Cities
+* Work Mode Distribution
+
+![Executive Overview](Images/dashboard_1_executive_overview.png)
+
+---
+
+## 2️⃣ Salary & Compensation Analysis
+
+Analyzes salary trends across different dimensions.
+
+Key highlights include:
+
+* Salary by Job Role
+* Salary by Skill Domain
+* Salary by Company
+* Salary by Work Mode
+* Salary by Experience Tier
+
+![Salary Dashboard](Images/dashboard_2_salary_compensation.png)
+
+---
+
+## 3️⃣ Experience & Skills Analysis
+
+Focuses on experience requirements and technical skill demand.
+
+Key highlights include:
+
+* Experience-wise Hiring
+* Skill Domain Demand
+* Average Skills Required
+* Experience vs Salary
+* Role vs Experience Matrix
+
+![Experience & Skills Dashboard](Images/dashboard_3_experience_skills.png)
+
+# ❓ Business Questions Answered
+
+This project answers the following business questions:
+
+1. Which technology roles have the highest hiring demand?
+2. Which Indian cities offer the most technology job opportunities?
+3. Which companies hire the most technology professionals?
+4. Which job roles offer the highest average salaries?
+5. Which technical skill domains command the highest salaries?
+6. How does salary vary across different work modes?
+7. Which companies offer the highest average salaries?
+8. How does salary change with increasing experience?
+9. What percentage of jobs are Remote, Hybrid, and On-site?
+10. Which experience level has the highest hiring demand?
+11. Which skill domains require the highest number of technical skills?
+12. How does hiring demand vary across experience levels for different job roles?
+
+# 💡 Key Business Insights
+
+* Business Intelligence is the most in-demand skill domain, accounting for over **11,000** job postings.
+* Data Scientist is the most frequently advertised technology role in the dataset.
+* Mumbai, Bangalore, Chennai, and Pune are the leading technology hiring hubs.
+* On-site jobs dominate the market, representing approximately **80.6%** of all job postings.
+* Cloud & DevOps offers the highest average salary among all analyzed skill domains.
+* Salary generally increases with experience, with Lead/Architect roles receiving the highest average compensation.
+* Most technology job postings target Mid-level (3–5 Years) professionals.
+* Salary disclosure is available for only a subset of job postings, highlighting the continued prevalence of undisclosed compensation in the industry.
+
+# 📈 Business Recommendations
+
+Based on the analysis, the following recommendations can be made:
+
+* Professionals seeking higher compensation should consider developing expertise in Cloud & DevOps, AI/ML, and Data Engineering.
+* Job seekers targeting maximum opportunities should prioritize major technology hubs such as Mumbai, Bangalore, Chennai, and Pune.
+* Early-career professionals should focus on acquiring practical technical skills to transition into Mid-level roles, where hiring demand is highest.
+* Organizations should consider improving salary transparency to attract stronger talent.
+* Recruiters can align hiring strategies with the most in-demand technical domains to remain competitive.
+
+# 📁 Repository Structure
+
+```text
+Indian-Tech-Job-Market-Analysis
+│
+├── Data
+│   ├── indian_techjobs_2026.csv
+│   └── job_market_analysis_final.csv
+│
+├── Images
+│   ├── dashboard_1_executive_overview.png
+│   ├── dashboard_2_salary_compensation.png
+│   ├── dashboard_3_experience_skills.png
+│   └── star_schema.png
+│
+├── Jupyter
+│   ├── 01_Data_Ingestion_and_Preprocessing.ipynb
+│   ├── 02_Data_Warehouse_Development.ipynb
+│   ├── 03_SQL_Business_Analysis.ipynb
+│   └── 04_Business_Insights.ipynb
+│
+├── PowerBI
+│   └── JOB_MARKET_ANALYTICS.pbix
+│
+├── SQL
+│   └── README.md
+│
+├── README.md
+└── LICENSE
+```
+
+# 🚀 Future Improvements
+
+Potential enhancements for future versions of this project include:
+
+* Integration with live job APIs for real-time analytics.
+* Automated ETL pipelines using Apache Airflow.
+* Predictive salary modeling using Machine Learning.
+* Deployment of dashboards through the Power BI Service.
+* Interactive web application using Streamlit.
+* Time-series analysis to monitor hiring trends over time.
+
+# 👨‍💻 About the Author
+
+**Sagar Gupta**
+
+Aspiring Data Analyst with hands-on experience in Python, SQL, MySQL, Power BI, and data warehouse design. Passionate about transforming raw data into meaningful business insights through end-to-end analytics projects.
+
+If you found this project useful, feel free to ⭐ the repository.
